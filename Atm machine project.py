@@ -1,3 +1,4 @@
+#ATM Machine prototype
 print("*"*65)
 print(" "*20,"WELCOME TO THE ATM"," "*20)
 print("*"*65)
@@ -36,5 +37,3 @@ while chance != 0:
             break
         else:
             continue
-
-        
